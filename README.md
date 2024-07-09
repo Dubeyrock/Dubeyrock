@@ -19,27 +19,6 @@ During my time at university, I had the opportunity to work as an AI/ML Intern a
 
 I also served as a Data Science Intern at Suvidha Foundation NGO, contributing to the Digital Summarizer Project. My role involved text summarization and Seq2seq model training, further deepening my expertise in NLP, deep learning, and machine learning.
 
-### Skills and Expertise
-
-- **Languages/Libraries:** Python, TensorFlow, PyTorch, Scikit-learn, Keras, Numpy, Pandas
-  
-- **Data Science:** Data Visualization, Data Cleaning, Regression, Decision Trees, SVM, KNN, Clustering, PCA, Neural Networks, CNNs, RNNs, Streamlit, SQL, Data Manipulation, Computer Vision, Deep Learning, EDA, LLM Data Science concepts, statistics, and modelling.
-  
-- **Tools:** GitHub, Testing, Productionizing experience (building pipelines, deployment)
-
-### Projects
-
-Some of my notable projects include:
-
-- **Homestays Data Analysis and Price Prediction:** Analyzed homestay data for price prediction using feature engineering, exploratory data analysis, geospatial analysis, sentiment analysis, and amenities analysis. Developed predictive models and evaluated performance with RMSE and R-squared metrics.
-
-- **Generating Realistic Images with GANs:** Implemented a Generative Adversarial Network (GAN) using TensorFlow/PyTorch to generate realistic images from the CIFAR10/100 dataset. Designed network architecture, optimized training, and evaluated performance metrics.
-
-### Certifications
-
-I hold several certifications, including GeoData Processing using Python, MongoDB for SQL Experts, Database Programming with SQL, Creating a Data Visualization using IBM, Introduction to Machine Learning, AWS Machine Learning Plan Completion, and Custom Models, Layers, and Loss Functions with TensorFlow.
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
