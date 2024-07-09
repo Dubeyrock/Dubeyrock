@@ -23,10 +23,15 @@
 
 - ⚡ Fun fact **I am machine learning engineer.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
+  -------------------------------------------------------------------------------------------------------------------------------------
+YouTube:
 
+📺 Check out my coding tutorials and project videos on my YouTube channel - CodeRebel (- https://www.youtube.com/@shivamdubey3798)
+
+<!-- YOUTUBE - VIDEOS-LIST: START -->
+<!-- YOUTUBE - VIDEOS-LIST: END -->
+--------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shivam_dubeydubey_43d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivam_dubeydubey_43d1" height="30" width="40" /></a>
@@ -51,3 +56,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubeyrock&show_icons=true&locale=en" alt="dubeyrock" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrock&" alt="dubeyrock" /></p>
+
+
+
+
+
+
+
+
+
+
