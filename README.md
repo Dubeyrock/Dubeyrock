@@ -32,13 +32,9 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ShivamDubey](https://www.datascienceportfol.io/ShivamDubey)
 
-- 📝 I regularly write articles on [https://medium.com/@shivvam2002/my-data-analytics-project-black-friday-sales-data-analysis-8dacafe0f5b4](https://medium.com/@shivvam2002/my-data-analytics-project-black-friday-sales-data-analysis-8dacafe0f5b4)
-
 - 💬 Ask me about **Python, TensorFlow, sci-kit-learn, data analysis, computer vision, image processing, and NLP.**
 
 - 📫 How to reach me **shivvam2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rgp7LnxfUAYJvocF0-sQ5nibOnUkJsdc/view?usp=sharing](https://drive.google.com/file/d/1rgp7LnxfUAYJvocF0-sQ5nibOnUkJsdc/view?usp=sharing)
 
 - ⚡ Fun fact **I am a machine learning engineer.**
 
@@ -82,5 +78,5 @@ YouTube:
 
 
 
-
+[![Dubeyrock github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dubeyrock&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
