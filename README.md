@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyrock&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyrock" /> </p>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Dubeyrock}/count.svg)
 
 ![https-lh5-googleusercontent-com-lirteaajnd3hx43l](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/b84287ee-6777-4e12-be8e-046cdb179068)
 
