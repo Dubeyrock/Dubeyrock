@@ -3,9 +3,48 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyrock&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyrock" /> </p>
 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## About Me
+
+Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 8.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn.
+
+Throughout my academic and professional journey, I have honed my skills in data analysis, computer vision, and image processing. I am dedicated to leveraging machine learning techniques to solve real-world problems, particularly in data analytics and Natural Language Processing (NLP).
+
+### My Journey
+
+During my time at university, I had the opportunity to work as an AI/ML Intern at Antihak.AI, where I developed "SafeTransact," a secure transaction management system to combat financial fraud. This project allowed me to apply OCR techniques and machine learning for image processing and data extraction, significantly enhancing my practical knowledge.
+
+I also served as a Data Science Intern at Suvidha Foundation NGO, contributing to the Digital Summarizer Project. My role involved text summarization and Seq2seq model training, further deepening my expertise in NLP, deep learning, and machine learning.
+
+### Skills and Expertise
+
+- **Languages/Libraries:** Python, TensorFlow, PyTorch, Scikit-learn, Keras, Numpy, Pandas
+  
+- **Data Science:** Data Visualization, Data Cleaning, Regression, Decision Trees, SVM, KNN, Clustering, PCA, Neural Networks, CNNs, RNNs, Streamlit, SQL, Data Manipulation, Computer Vision, Deep Learning, EDA, LLM Data Science concepts, statistics, and modelling.
+  
+- **Tools:** GitHub, Testing, Productionizing experience (building pipelines, deployment)
+
+### Projects
+
+Some of my notable projects include:
+
+- **Homestays Data Analysis and Price Prediction:** Analyzed homestay data for price prediction using feature engineering, exploratory data analysis, geospatial analysis, sentiment analysis, and amenities analysis. Developed predictive models and evaluated performance with RMSE and R-squared metrics.
+
+- **Generating Realistic Images with GANs:** Implemented a Generative Adversarial Network (GAN) using TensorFlow/PyTorch to generate realistic images from the CIFAR10/100 dataset. Designed network architecture, optimized training, and evaluated performance metrics.
+
+### Certifications
+
+I hold several certifications, including GeoData Processing using Python, MongoDB for SQL Experts, Database Programming with SQL, Creating a Data Visualization using IBM, Introduction to Machine Learning, AWS Machine Learning Plan Completion, and Custom Models, Layers, and Loss Functions with TensorFlow.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, Keras, Numpy, Pandas.**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, Keras, Numpy, and Pandas.**
 
 - 👯 I’m looking to collaborate on **Contributed to the Digital Summarizer Project in NLP, DL, and ML domain.**
 
