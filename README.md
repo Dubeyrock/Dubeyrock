@@ -73,10 +73,7 @@ YouTube:
 
 
 
-https://github.com/Dubeyrock/Dubeyrock/blob/output/github-contribution-grid-snake.gif
-
-Add this to your
-
+![snake gif](https://github.com/Dubeyrock/Dubeyrock/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
