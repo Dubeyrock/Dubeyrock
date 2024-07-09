@@ -79,12 +79,11 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyrock&show_icons=true&locale=en&layout=compact" alt="dubeyrock" /></p>
 
 
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubeyrock&show_icons=true&locale=en" alt="dubeyrock" /></p>
 
-</br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Total contribution / longest Streak.
