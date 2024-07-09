@@ -7,8 +7,7 @@
 ![https-lh5-googleusercontent-com-lirteaajnd3hx43l](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/b84287ee-6777-4e12-be8e-046cdb179068)
 
 
-
-![giphy](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/f839af30-85f9-4b7e-ba5a-d0729e7e8e26)
+![137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/70871025-6fbb-464f-b438-8c2d7f416c92)
 
 
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
