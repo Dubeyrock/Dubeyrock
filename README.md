@@ -6,9 +6,13 @@
 
 ![https-lh5-googleusercontent-com-lirteaajnd3hx43l](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/b84287ee-6777-4e12-be8e-046cdb179068)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## About Me
+Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 8.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn. I have honed my skills in data analysis, computer vision, and image processing through academic and professional experiences. I am dedicated to leveraging machine learning techniques to solve real-world problems, especially in data analytics and Natural Language Processing (NLP).
 
-![137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/70871025-6fbb-464f-b438-8c2d7f416c92)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Features : 
 
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
 
