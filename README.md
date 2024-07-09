@@ -13,13 +13,8 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
 
 Throughout my academic and professional journey, I have honed my skills in data analysis, computer vision, and image processing. I am dedicated to leveraging machine learning techniques to solve real-world problems, particularly in data analytics and Natural Language Processing (NLP).
 
-### My Journey
-
-During my time at university, I had the opportunity to work as an AI/ML Intern at Antihak.AI, where I developed "SafeTransact," a secure transaction management system to combat financial fraud. This project allowed me to apply OCR techniques and machine learning for image processing and data extraction, significantly enhancing my practical knowledge.
-
-I also served as a Data Science Intern at Suvidha Foundation NGO, contributing to the Digital Summarizer Project. My role involved text summarization and Seq2seq model training, further deepening my expertise in NLP, deep learning, and machine learning.
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
 
@@ -33,13 +28,13 @@ I also served as a Data Science Intern at Suvidha Foundation NGO, contributing t
 
 - 📝 I regularly write articles on [https://medium.com/@shivvam2002/my-data-analytics-project-black-friday-sales-data-analysis-8dacafe0f5b4](https://medium.com/@shivvam2002/my-data-analytics-project-black-friday-sales-data-analysis-8dacafe0f5b4)
 
-- 💬 Ask me about **Python, TensorFlow, scikit-learn, data analysis, computer vision, image processing, NLP.**
+- 💬 Ask me about **Python, TensorFlow, sci-kit-learn, data analysis, computer vision, image processing, and NLP.**
 
 - 📫 How to reach me **shivvam2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rgp7LnxfUAYJvocF0-sQ5nibOnUkJsdc/view?usp=sharing](https://drive.google.com/file/d/1rgp7LnxfUAYJvocF0-sQ5nibOnUkJsdc/view?usp=sharing)
 
-- ⚡ Fun fact **I am machine learning engineer.**
+- ⚡ Fun fact **I am a machine learning engineer.**
 
   
   -------------------------------------------------------------------------------------------------------------------------------------
@@ -50,6 +45,7 @@ YouTube:
 <!-- YOUTUBE - VIDEOS-LIST: START -->
 <!-- YOUTUBE - VIDEOS-LIST: END -->
 --------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shivam_dubeydubey_43d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivam_dubeydubey_43d1" height="30" width="40" /></a>
@@ -65,6 +61,8 @@ YouTube:
 <a href="https://www.leetcode.com/shivvam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivvam2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivvam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivvam2002" height="30" width="40" /></a>
 </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
