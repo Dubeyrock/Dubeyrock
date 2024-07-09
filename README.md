@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyrock&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyrock" /> </p>
 
 
+
+
 ![https-lh5-googleusercontent-com-lirteaajnd3hx43l](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/b84287ee-6777-4e12-be8e-046cdb179068)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -11,6 +13,12 @@
 Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 8.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn. I have honed my skills in data analysis, computer vision, and image processing through academic and professional experiences. I am dedicated to leveraging machine learning techniques to solve real-world problems, especially in data analytics and Natural Language Processing (NLP).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 ## Features : 
 
@@ -71,9 +79,6 @@ YouTube:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrock&" alt="dubeyrock" /></p>
 
-
-
-![snake gif](https://github.com/Dubeyrock/Dubeyrock/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
