@@ -20,7 +20,7 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-## Features : 
+## Features : :
 
 - 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
 
