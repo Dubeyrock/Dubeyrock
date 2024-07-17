@@ -12,7 +12,7 @@
 ## About Me
 Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 8.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn. I have honed my skills in data analysis, computer vision, and image processing through academic and professional experiences. I am dedicated to leveraging machine learning techniques to solve real-world problems, especially in data analytics and Natural Language Processing (NLP).
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.
 
 
 <!--Night Owl image-->
