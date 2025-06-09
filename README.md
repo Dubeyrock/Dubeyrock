@@ -16,7 +16,8 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
 ## 🧢 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Data+Science)+Student;Machine Learning+DeepLearning +Enthusiast; front-end +Developer;GenAI +Enthusiast ;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+
+    (Data+Science)+Student;Machine Learning+DeepLearning +Enthusiast; front-end +Developer;GenAI +Enthusiast ;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🧢 About Me
