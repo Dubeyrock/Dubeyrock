@@ -13,17 +13,12 @@
 Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 8.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn. I have honed my skills in data analysis, computer vision, and image processing through academic and professional experiences. I am dedicated to leveraging machine learning techniques to solve real-world problems, especially in data analytics and Natural Language Processing (NLP).
 
 
-## 🧢 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+
-    (Data+Science)+Student;Machine Learning+DeepLearning +Enthusiast; front-end +Developer;GenAI +Enthusiast ;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</div>
 
 ## 🧢 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Data+Science)+Student;Cloud+Computing+Enthusiast;Mobile+App+Developer;AI+Explorer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Data+Science)+Student;Cloud+Computing+Enthusiast;front-end +App+Developer;AI+Explorer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.
 
