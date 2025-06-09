@@ -41,7 +41,10 @@ Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engine
   
   -------------------------------------------------------------------------------------------------------------------------------------
 
-  
+  ## 🔧 Technologies & Tools
+
+<div align="center"> <table> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" width="60"/><br/><strong>C</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60"/><br/><strong>C++</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="60"/><br/><strong>Java</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="60"/><br/><strong>Python</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="60"/><br/><strong>Dart</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60"/><br/><strong>JavaScript</strong></td>  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60"/><br/><strong>MySQL</strong></td> </tr> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60"/><br/><strong>Flutter</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="60"/><br/><strong>React</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60"/><br/><strong>Node.js</strong></td> </td> <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="60"/><br/><strong>Tensorflow</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60"/><br/><strong>Git</strong>  <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60"/><br/><strong>AWS</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="60"/><br/><strong>GCP</strong></td>  </tr> </table> </div>
+
 ## YouTube (codeRebel): 
 
 📺 Check out my coding tutorials and project videos on my YouTube channel - CodeRebel (- https://www.youtube.com/@shivamdubey3798)
