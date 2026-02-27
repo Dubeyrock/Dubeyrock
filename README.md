@@ -14,35 +14,35 @@
 ## 👨‍💻 About Me
 
 🎓 B.Tech CSE Graduate (2024)  
-🤖 AI/ML Engineer with **1.3+ years internship experience**  
-🔬 Specialized in **Generative AI, NLP, Computer Vision & RAG systems**  
-🚀 Passionate about building AI solutions that solve real-world problems  
+🤖 AI/ML Engineer with **1.3+ years internship experience.**  
+🔬 Specialized in **Generative AI, NLP, Computer Vision & RAG systems.**  
+🚀 Passionate about building AI solutions that solve real-world problems.  
 
-✔ Built assistive AI for visually impaired users  
-✔ Developed OCR & fraud detection systems  
-✔ Designed NLP & audio ML pipelines  
-✔ Deploying production-ready AI apps  
+✔ Built assistive AI for visually impaired users.
+✔ Developed OCR & fraud detection systems.
+✔ Designed NLP & audio ML pipelines.
+✔ Deploying production-ready AI apps.  
 
 ---
 
 ## 🧠 Experience Highlights
 
 🔹 **GenAI Intern — Innomatics Research Labs**  
-→ Built assistive AI using LangChain + Google GenAI  
-→ Achieved **92% scene classification accuracy**  
-→ Improved response relevance using RAG (Gemini 1.5)
+→ Built assistive AI using LangChain + Google GenAI.  
+→ Achieved **92% scene classification accuracy**.  
+→ Improved response relevance using RAG (Gemini 1.5).
 
 🔹 **ML Engineer Intern — AntiHak.ai**  
-→ Built OCR-based transaction monitoring system  
-→ Achieved **95% extraction accuracy**  
-→ Improved fraud detection precision
+→ Built OCR-based transaction monitoring system.  
+→ Achieved **95% extraction accuracy.**  
+→ Improved fraud detection precision.
 
-🔹 **Data Science Intern — Suvidha Foundation**  
-→ Optimised NLP summarization using transformers  
-→ Improved efficiency & ROUGE performance
+🔹 **Data Science Intern — Suvidha Foundation.**  
+→ Optimised NLP summarization using transformers. 
+→ Improved efficiency & ROUGE performance.
 
 🔹 **ML Trainee — CETPA Infotech**  
-→ Built ML models & data pipelines on real datasets
+→ Built ML models & data pipelines on real datasets.
 
 ---
 
