@@ -61,26 +61,20 @@ LLM-powered automated code quality analysis tool
 ## 🛠 Tech Stack — At a glance
 
 <p align="center">
-  <!-- Languages & Core -->
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" height="40" title="Python · JavaScript · Java · C · C++" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" height="36" alt="languages" />
   &nbsp;&nbsp;
-  <!-- Data & Libraries -->
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" height="40" title="Pandas · NumPy · scikit-learn" alt="data libs" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" height="36" alt="data" />
   &nbsp;&nbsp;
-  <!-- Deep Learning -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,transformers" height="40" title="PyTorch · TensorFlow · HuggingFace Transformers" alt="dl libs" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,transformers" height="36" alt="dl" />
   &nbsp;&nbsp;
-  <!-- GenAI / RAG -->
-  <img src="https://skillicons.dev/icons?i=openai,langchain" height="40" title="OpenAI · LangChain" alt="genai" />
+  <img src="https://skillicons.dev/icons?i=openai,langchain,faiss" height="36" alt="genai" />
   &nbsp;&nbsp;
-  <!-- NLP & CV -->
-  <img src="https://skillicons.dev/icons?i=opencv,paddle" height="40" title="OpenCV · PaddleOCR/Tesseract" alt="cv & ocr" />
+  <img src="https://skillicons.dev/icons?i=opencv,paddle,tesseract" height="36" alt="cv_ocr" />
   &nbsp;&nbsp;
-  <!-- Deployment & Infra -->
-  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,flask,aws,gcp,git" height="40" title="Streamlit · FastAPI · Flask · AWS · GCP · Git" alt="deployment" />
+  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,flask,aws,gcp,git" height="36" alt="deploy" />
 </p>
 
-<p align="center"><em>Production-ready tools + research-grade ML libraries — focused on building deployable GenAI, NLP & CV systems.</em></p>
+<p align="center"><em>Production-ready tools + research-grade ML libraries — focused on deployable GenAI, NLP & CV systems.</em></p>
 
 ---
 
