@@ -1,111 +1,120 @@
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
-<h3 align="center">AI/ML Engineer • Data Scientist • Generative AI Builder</h3>
+<h3 align="center">AI Engineer | Machine Learning | Generative AI | RAG Systems</h3>
 
 <p align="center">
-🚀 Building real-world AI solutions | 🤖 GenAI & RAG | 👁️ Computer Vision | 🧠 NLP
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dubeyrock&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyrock" />
+Building real-world AI solutions with measurable impact 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech CSE Graduate (2024)  
-🤖 AI/ML Engineer with **1.3+ years internship experience.**  
-🔬 Specialized in **Generative AI, NLP, Computer Vision & RAG systems.**  
-🚀 Passionate about building AI solutions that solve real-world problems.  
+AI Engineer with **1.3+ years of hands-on internship experience** in Machine Learning, NLP, Computer Vision, and Generative AI.
 
-✔ Built assistive AI for visually impaired users.
-✔ Developed OCR & fraud detection systems.
-✔ Designed NLP & audio ML pipelines.
-✔ Deploying production-ready AI apps.  
+I specialize in building **production-ready AI systems** including:
 
----
+• RAG-based LLM applications  
+• OCR & Fraud Detection pipelines  
+• Audio ML systems  
+• AI Assistive solutions  
+• End-to-end ML model deployment  
 
-## 🧠 Experience Highlights
-
-🔹 **GenAI Intern — Innomatics Research Labs**  
-→ Built assistive AI using LangChain + Google GenAI.  
-→ Achieved **92% scene classification accuracy**.  
-→ Improved response relevance using RAG (Gemini 1.5).
-
-🔹 **ML Engineer Intern — AntiHak.ai**  
-→ Built OCR-based transaction monitoring system.  
-→ Achieved **95% extraction accuracy.**  
-→ Improved fraud detection precision.
-
-🔹 **Data Science Intern — Suvidha Foundation.**  
-→ Optimised NLP summarization using transformers. 
-→ Improved efficiency & ROUGE performance.
-
-🔹 **ML Trainee — CETPA Infotech**  
-→ Built ML models & data pipelines on real datasets.
+Passionate about solving real-world problems using scalable AI architectures.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience Snapshot
+
+### 🔹 GenAI Intern — Innomatics Research Labs
+- Built a GenAI assistant for visually impaired users (92% scene classification accuracy)
+- Developed RAG pipelines using LangChain & Gemini 1.5 Pro
+- Improved contextual relevance in AI responses by 40%
+
+### 🔹 ML Engineer Intern — AntiHak.ai
+- Designed OCR-based transaction monitoring system (95% data extraction accuracy)
+- Improved fraud detection precision by 18%
+
+### 🔹 Data Science Intern — Suvidha Foundation
+- Enhanced transformer-based summarization system
+- Reduced training time by 25% and improved ROUGE by 15%
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 Advanced RAG System
+Production-ready RAG system with LangChain + FAISS + Groq API  
+Supports multi-format ingestion (PDF, CSV, JSON, DOCX)
 
 ### 🔹 Grammar Scoring Engine
-🎙 Audio ML pipeline that predicts grammar proficiency scores  
-⚡ Streamlit app with real-time feedback & MFCC visualization  
+End-to-end audio ML pipeline predicting grammar proficiency scores  
+Built with Streamlit + ML + MFCC feature extraction
 
-### 🔹 AI Assistive System for Visually Impaired
-👁 Scene understanding + obstacle detection  
-🤖 Real-time environment awareness using GenAI  
+### 🔹 AI-Powered Assistive System
+Real-time scene understanding + object detection for visually impaired users
 
 ### 🔹 AI Code Reviewer
-🧠 Detects coding issues & suggests fixes  
-⚡ Built with Generative AI + Streamlit  
+LLM-powered automated code quality analysis tool
 
-👉 Check pinned repositories for demos & deployments.
+👉 Check pinned repositories for live demos & deployments.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
-**AI/ML:** Scikit-learn, Transformers, Deep Learning  
-**GenAI:** LangChain, LLMs, RAG, OpenAI, Gemini  
-**NLP:** Text processing, summarization, ASR pipelines  
-**Computer Vision & OCR:** OpenCV, PaddleOCR, Tesseract  
-**Deployment:** Streamlit, FastAPI, Flask  
-**Data Tools:** Pandas, NumPy, MySQL, PostgreSQL  
-**Tools:** Git, APIs, Azure, GCP  
+### Languages
+Python | SQL | JavaScript
+
+### Machine Learning
+scikit-learn | TensorFlow | PyTorch | Feature Engineering | Model Evaluation
+
+### Generative AI
+LangChain | RAG Pipelines | LLMs | OpenAI | Gemini | Prompt Engineering | FAISS
+
+### NLP & CV
+Transformers | Summarization | OCR | OpenCV | PaddleOCR | Tesseract
+
+### Deployment
+Streamlit | FastAPI | Flask | AWS (EC2, S3) | Git | CI/CD Basics
+
+### Data
+Pandas | NumPy | EDA | SQL | PostgreSQL | MySQL
 
 ---
 
-## 📜 Certifications
+## 📈 What I Focus On
 
-✔ Oracle Cloud Generative AI Professional  
-✔ Advanced ML & Generative AI — Innomatics  
-✔ Complete ML & Data Science — GeeksforGeeks  
-✔ Data Science & ML Program — Udemy  
+✔ Production-ready AI systems  
+✔ Real-world problem solving  
+✔ Performance optimization  
+✔ Scalable ML architecture  
+✔ Clean deployment pipelines  
 
 ---
 
 ## 🎯 Currently Open To
 
-✅ Data Scientist roles  
-✅ AI/ML Engineer roles  
-✅ Generative AI & NLP roles  
-✅ Entry-level / Junior positions  
-✅ Collaboration & open-source projects  
+• Junior AI Engineer Roles  
+• ML Engineer Roles  
+• Data Scientist Roles  
+• Generative AI Engineer Roles  
+
+Open to full-time opportunities and collaborations.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/shivam-dubey-371a591a8" target="blank">LinkedIn</a> •
-<a href="https://github.com/Dubeyrock" target="blank">GitHub</a> •
-<a href="https://kaggle.com/s00980" target="blank">Kaggle</a> •
-<a href="https://medium.com/@shivvam2002" target="blank">Medium</a> •
-<a href="https://www.youtube.com/@shivamdubey3798" target="blank">YouTube</a>
-</p>
+📧 shivvam2002@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/shivam-dubey-371a591a8  
+💻 GitHub: https://github.com/Dubeyrock  
+📊 Kaggle: https://www.kaggle.com/s00980  
 
 ---
 
-⭐ *“Building AI that makes technology more human and accessible.”*
+## Total contribution / longest Streak.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrock&" alt="dubeyrock" /></p>
+
+---
+
+⭐ If you like my work, consider starring a repository!
