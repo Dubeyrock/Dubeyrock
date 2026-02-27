@@ -58,29 +58,47 @@ LLM-powered automated code quality analysis tool
 
 👉 Check pinned repositories for live demos & deployments.
 
+## 🛠 Tech Stack — At a glance
+
+<p align="center">
+  <!-- Languages & Core -->
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" height="40" title="Python · JavaScript · Java · C · C++" alt="languages" />
+  &nbsp;&nbsp;
+  <!-- Data & Libraries -->
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" height="40" title="Pandas · NumPy · scikit-learn" alt="data libs" />
+  &nbsp;&nbsp;
+  <!-- Deep Learning -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,transformers" height="40" title="PyTorch · TensorFlow · HuggingFace Transformers" alt="dl libs" />
+  &nbsp;&nbsp;
+  <!-- GenAI / RAG -->
+  <img src="https://skillicons.dev/icons?i=openai,langchain" height="40" title="OpenAI · LangChain" alt="genai" />
+  &nbsp;&nbsp;
+  <!-- NLP & CV -->
+  <img src="https://skillicons.dev/icons?i=opencv,paddle" height="40" title="OpenCV · PaddleOCR/Tesseract" alt="cv & ocr" />
+  &nbsp;&nbsp;
+  <!-- Deployment & Infra -->
+  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,flask,aws,gcp,git" height="40" title="Streamlit · FastAPI · Flask · AWS · GCP · Git" alt="deployment" />
+</p>
+
+<p align="center"><em>Production-ready tools + research-grade ML libraries — focused on building deployable GenAI, NLP & CV systems.</em></p>
+
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-Python | SQL | JavaScript
-
-### Machine Learning
-scikit-learn | TensorFlow | PyTorch | Feature Engineering | Model Evaluation
-
-### Generative AI
-LangChain | RAG Pipelines | LLMs | OpenAI | Gemini | Prompt Engineering | FAISS
-
-### NLP & CV
-Transformers | Summarization | OCR | OpenCV | PaddleOCR | Tesseract
-
-### Deployment
-Streamlit | FastAPI | Flask | AWS (EC2, S3) | Git | CI/CD Basics
-
-### Data
-Pandas | NumPy | EDA | SQL | PostgreSQL | MySQL
+### 🔹 Categories (quick)
+- **Languages:** Python · JavaScript · Java · C / C++  
+- **Data & Analysis:** Pandas · NumPy · SQL (MySQL / PostgreSQL)  
+- **ML / DL:** scikit-learn · PyTorch · TensorFlow · Feature Engineering · Model Evaluation  
+- **Generative AI / RAG:** LangChain · OpenAI · Gemini (concepts) · FAISS · Prompt Engineering  
+- **NLP & Speech:** Hugging Face Transformers · Summarization · ASR pipelines  
+- **Computer Vision & OCR:** OpenCV · PaddleOCR / Tesseract · Object Detection  
+- **Deployment & Infra:** Streamlit · FastAPI · Flask · Docker basics · AWS / GCP · CI/CD (basic)  
+- **Tools:** Git · GitHub · VSCode · Jupyter Notebooks
 
 ---
+
+### ⭐ Highlight (one-liner)
+**Specialties:** RAG pipelines, LangChain integration, OCR pipelines for production data ingestion, audio ML pipelines (MFCC → model → Streamlit), and deployable end-to-end ML systems.
+
 
 ## 📈 What I Focus On
 
