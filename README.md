@@ -8,36 +8,56 @@
 
 ![https-lh5-googleusercontent-com-lirteaajnd3hx43l](https://github.com/Dubeyrock/Dubeyrock/assets/96882359/b84287ee-6777-4e12-be8e-046cdb179068)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## About Me
-Hello! I'm Shivam Dubey, a recent B.Tech graduate in Computer Science and Engineering from Galgotias University with a CGPA of 7.91. I am passionate about data science and machine learning, with a strong foundation in Python, TensorFlow, and Scikit-learn. I have honed my skills in data analysis, computer vision, and image processing through academic and professional experiences. I am dedicated to leveraging machine learning techniques to solve real-world problems, especially in data analytics and Natural Language Processing (NLP).
+AI/ML Engineer (1.3+ yrs) • GenAI & RAG practitioner • Built assistive AI, OCR & NLP systems • Python · LangChain · Transformers
 
+Extended profile summary (Markdown — paste into your GitHub “README.md” or About)
+Hi, I’m Shivam Dubey 👋
 
+Results-driven AI/ML Engineer with 1.3+ years of hands-on internship experience building real-world GenAI, NLP and computer-vision solutions. I design and deploy RAG-based assistants, OCR pipelines, and audio/ML applications with a focus on measurable impact and production-readiness.
 
+Experience highlights
 
+Internship — Innomatics Research Labs: Built a GenAI assistant for visually impaired users using LangChain and Google Generative AI; achieved ~92% scene classification accuracy and improved response-context relevance via RAG with Gemini 1.5 Pro.
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+Internship — AntiHak.ai: Developed an OCR-based transaction monitoring system (“SafeTransact”) with 95% data-extraction accuracy and enhanced fraud-detection precision.
 
-## Features : :
+Internship — Suvidha Foundation: Applied NLP and transformer-based models to optimize large-document summarization workflows.
 
-- 🔭 I’m currently working on **How to perform Image Classification using Tensorflow.**
+Early training — CETPA Infotech Pvt. Ltd.: ML trainee working on dataset pipelines and classical ML algorithms.
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, Keras, Numpy, and Pandas.**
+Selected projects
 
-- 👯 I’m looking to collaborate on **Contributed to the Digital Summarizer Project in NLP, DL, and ML domain.**
+Grammar Scoring Engine — End-to-end audio pipeline + Streamlit app that predicts grammar MOS scores from .wav files.
 
-- 🤝 I’m looking for help with **Developed "SafeTransact," a secure transaction management system to combat financial fraud.**
+AI-Powered Assistive Solution — Real-time scene classification, object & obstacle detection for visually-impaired assistance.
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ShivamDubey](https://www.datascienceportfol.io/ShivamDubey)
+AI Code Reviewer — Tool that detects common coding issues and suggests fixes automatically.
 
-- 💬 Ask me about **Python, TensorFlow, sci-kit-learn, data analysis, computer vision, image processing, and NLP.**
+(See pinned repos for demos, notebooks and deployed apps.)
 
-- 📫 How to reach me **shivvam2002@gmail.com**
+Skills & tools
 
-- ⚡ Fun fact **I am a machine learning engineer.**
+Languages: Python
+ML / DL: scikit-learn, Transformers, fine-tuning, feature engineering
+GenAI / RAG: LangChain, LLMs, RAG pipelines, Google Generative AI, OpenAI. OpenAI
+CV / OCR: OpenCV, PaddleOCR / Tesseract (OCR pipelines)
+NLP: Transformers, summarization, ASR pipelines
+Deployment & infra: Streamlit, FastAPI, Flask, Git, basic Azure/GCP workflows
+Databases / Data: SQL, MySQL, PostgreSQL, pandas, NumPy
+
+Certifications & learning
+
+Data Science & ML Professional Course — Udemy (Krish Naik). Krish Naik
+
+Oracle Cloud Certified — Generative AI Professional.
+
+Advanced ML & Generative AI — Innomatics Research Labs.
+
+Complete ML & Data Science Program — GeeksforGeeks
+
+Interested in
+
+Early-career roles in Data Science, ML Engineering, GenAI & NLP. Open to collaborations, internships and junior/full-time roles.
 
   
   -------------------------------------------------------------------------------------------------------------------------------------
