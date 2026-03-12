@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
-<h3 align="center">AI Engineer | Machine Learning | Generative AI | RAG Systems</h3>
+<h3 align="center">AI Engineer | Machine Learning | Generative AI | RAG  | LLM </h3>
 
 <p align="center">
 Building real-world AI solutions with measurable impact 🚀
