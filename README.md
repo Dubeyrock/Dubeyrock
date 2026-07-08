@@ -367,15 +367,6 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dubeyrock&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ## 📅 Contribution Activity
 
