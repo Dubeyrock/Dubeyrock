@@ -1,132 +1,365 @@
-<h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
-<h3 align="center">AI Engineer | Machine Learning | Generative AI | RAG  | LLM </h3>
+<div align="center">
 
-<p align="center">
-Building real-world AI solutions with measurable impact 🚀
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Dubey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20LLM&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+production-ready+AI+systems+%F0%9F%9A%80;RAG+%7C+LLM+%7C+Generative+AI+Applications;OCR+%2B+Fraud+Detection+Pipelines;Audio+ML+%26+AI-Assistive+Systems;End-to-End+ML+Model+Deployment" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Location-Haryana,_India-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![Experience](https://img.shields.io/badge/💼_Experience-1.3%2B_Years-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/🎯_Status-Open_to_Work-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/ShivamDubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-371a591a8)
+[![Gmail](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivvam2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubeyrock)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dubeyrock&label=Profile%20Views&color=6D28D9&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Dubeyrock?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e)](https://github.com/Dubeyrock?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Dubeyrock?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)](https://github.com/Dubeyrock?tab=stars)
+
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 About Me
 
-AI Engineer with **1.3+ years of hands-on internship experience** in Machine Learning, NLP, Computer Vision, and Generative AI.
+I'm an **AI Engineer** with **1.3+ years of hands-on internship experience** across Machine Learning, NLP, Computer Vision, and Generative AI — focused on shipping **production-grade, scalable AI systems**, not just notebooks.
 
-I specialize in building **production-ready AI systems** including:
+My engineering approach blends:
 
-• RAG-based LLM applications  
-• OCR & Fraud Detection pipelines  
-• Audio ML systems  
-• AI Assistive solutions  
-• End-to-end ML model deployment  
+- 🧠 **AI/ML Expertise** — RAG pipelines, LLM orchestration, and applied deep learning
+- 🏗️ **Full-Stack Engineering** — building the APIs, services, and interfaces that put models in front of real users
+- 📦 **Product Engineering Mindset** — measuring impact (accuracy, latency, precision) instead of shipping "demos"
+- ⚙️ **End-to-End Ownership** — from data ingestion to deployment and monitoring
 
-Passionate about solving real-world problems using scalable AI architectures.
+**What I build:**
+
+- RAG-based LLM applications
+- OCR & fraud-detection pipelines
+- Audio ML systems
+- AI-assistive solutions for accessibility
+- End-to-end ML model deployment on cloud infra
+
+```yaml
+Open To: Junior AI Engineer · ML Engineer · Data Scientist · Generative AI Engineer
+```
 
 ---
 
-## 💼 Experience Snapshot
+## 🛠️ Tech Stack
 
-### 🔹 GenAI Intern — Innomatics Research Labs
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML / Generative AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data & Computer Vision**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Generative AI / RAG** | ⭐⭐⭐⭐⭐ | LangChain, FAISS, Groq API, Gemini 1.5 Pro, prompt engineering, multi-format ingestion (PDF/CSV/JSON/DOCX) |
+| **NLP & Transformers** | ⭐⭐⭐⭐ | Hugging Face Transformers, summarization, contextual relevance tuning |
+| **Computer Vision & OCR** | ⭐⭐⭐⭐ | OpenCV, Tesseract/PaddleOCR, scene classification, object detection |
+| **Audio ML** | ⭐⭐⭐⭐ | MFCC feature extraction → model inference → Streamlit deployment |
+| **Fraud Detection Systems** | ⭐⭐⭐⭐ | OCR-based transaction monitoring, precision optimization |
+| **Model Deployment** | ⭐⭐⭐⭐ | FastAPI, Flask, Streamlit, Docker, AWS/GCP basics, CI/CD |
+
+---
+
+## 💡 Featured Projects
+
+<details>
+<summary><b>🔹 Advanced RAG System</b></summary>
+<br/>
+
+Production-ready Retrieval-Augmented Generation system supporting multi-format document ingestion and low-latency question answering over private knowledge bases.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | LangChain · FAISS · Groq API · Python |
+| **Scale** | Multi-format ingestion (PDF, CSV, JSON, DOCX) |
+| **Performance** | Optimized retrieval + context-window management |
+| **Security** | Local vector store, no data leakage to third parties |
+| **Impact** | Reusable RAG framework for downstream GenAI apps |
+| **Repository** | [View Repo](https://github.com/Dubeyrock) |
+
+Built to be modular — swap the LLM, vector store, or ingestion format without rearchitecting the pipeline.
+
+</details>
+
+<details>
+<summary><b>🔹 Grammar Scoring Engine</b></summary>
+<br/>
+
+End-to-end audio ML pipeline that predicts grammar proficiency scores directly from speech recordings.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · MFCC · scikit-learn · Streamlit |
+| **Scale** | Batch + real-time audio inference |
+| **Performance** | Feature-engineered pipeline tuned for accuracy on spoken audio |
+| **Security** | Local inference, no external audio transmission |
+| **Impact** | Deployed as an interactive scoring tool via Streamlit |
+| **Repository** | [View Repo](https://github.com/Dubeyrock) |
+
+Combines classical signal-processing features (MFCC) with ML models for a lightweight, explainable scoring system.
+
+</details>
+
+<details>
+<summary><b>🔹 AI-Powered Assistive System</b></summary>
+<br/>
+
+Real-time scene understanding and object detection system built to support visually impaired users.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Computer Vision · Object Detection Models · Python |
+| **Scale** | Real-time inference on live camera input |
+| **Performance** | 92% scene classification accuracy |
+| **Security** | On-device/local inference for user privacy |
+| **Impact** | Improved contextual relevance of AI responses by 40% |
+| **Repository** | [View Repo](https://github.com/Dubeyrock) |
+
+Designed around accessibility-first principles — every architectural decision optimized for reliability over flashiness.
+
+</details>
+
+<details>
+<summary><b>🔹 AI Code Reviewer</b></summary>
+<br/>
+
+LLM-powered automated code quality analysis tool that reviews pull requests and flags issues before merge.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | LLM APIs · Python · Static Analysis |
+| **Scale** | Repository-level code scanning |
+| **Performance** | Automated, consistent review turnaround |
+| **Security** | No code persistence beyond the review session |
+| **Impact** | Reduces manual review overhead for small teams |
+| **Repository** | [View Repo](https://github.com/Dubeyrock) |
+
+Built to catch the boring-but-important issues so human reviewers can focus on architecture and logic.
+
+</details>
+
+👉 *Check [pinned repositories](https://github.com/Dubeyrock) for live demos & deployments.*
+
+---
+
+## 💼 Experience
+
+### GenAI Intern — Innomatics Research Labs
+*Internship*
+
+Built a GenAI assistant for visually impaired users, developed RAG pipelines using LangChain & Gemini 1.5 Pro, and improved contextual response quality.
+
+**Scope of work:**
 - Built a GenAI assistant for visually impaired users (92% scene classification accuracy)
 - Developed RAG pipelines using LangChain & Gemini 1.5 Pro
 - Improved contextual relevance in AI responses by 40%
 
-### 🔹 ML Engineer Intern — AntiHak.ai
+`LangChain` `Gemini 1.5 Pro` `RAG` `Computer Vision` `Python`
+
+---
+
+### ML Engineer Intern — AntiHak.AI
+*Feb 2024 – Apr 2024 · Noida, UP, India*
+
+Designed and shipped an OCR-based transaction monitoring system to strengthen fraud detection in financial data pipelines.
+
+**Scope of work:**
 - Designed OCR-based transaction monitoring system (95% data extraction accuracy)
 - Improved fraud detection precision by 18%
 
-### 🔹 Data Science Intern — Suvidha Foundation
+`OCR` `Fraud Detection` `Python` `Data Pipelines`
+
+---
+
+### Data Science Intern — Suvidha Foundation
+*Internship*
+
+Enhanced a transformer-based summarization system, improving both training efficiency and output quality.
+
+**Scope of work:**
 - Enhanced transformer-based summarization system
-- Reduced training time by 25% and improved ROUGE by 15%
+- Reduced training time by 25% and improved ROUGE score by 15%
+
+`Transformers` `NLP` `Summarization` `Python`
 
 ---
 
-## 🧠 Featured Projects
+## 🏆 Achievements
 
-### 🔹 Advanced RAG System
-Production-ready RAG system with LangChain + FAISS + Groq API  
-Supports multi-format ingestion (PDF, CSV, JSON, DOCX)
+<div align="center">
 
-### 🔹 Grammar Scoring Engine
-End-to-end audio ML pipeline predicting grammar proficiency scores  
-Built with Streamlit + ML + MFCC feature extraction
+| Recognition | Details |
+|---|---|
+| 🦈 Pull Shark | Recognized on GitHub for consistent, high-quality pull request contributions |
+| 📈 40+ Repository Stars | Community recognition across 94 public repositories |
+| 🎯 92% Accuracy | Scene classification model for AI-assistive system |
+| 🔍 95% Extraction Accuracy | OCR-based transaction monitoring system |
 
-### 🔹 AI-Powered Assistive System
-Real-time scene understanding + object detection for visually impaired users
-
-### 🔹 AI Code Reviewer
-LLM-powered automated code quality analysis tool
-
-👉 Check pinned repositories for live demos & deployments.
-
-## 🛠 Tech Stack — At a glance
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" height="36" alt="languages" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" height="36" alt="data" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,transformers" height="36" alt="dl" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=openai,langchain,faiss" height="36" alt="genai" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv,paddle,tesseract" height="36" alt="cv_ocr" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,flask,aws,gcp,git" height="36" alt="deploy" />
-</p>
-
-<p align="center"><em>Production-ready tools + research-grade ML libraries — focused on deployable GenAI, NLP & CV systems.</em></p>
+</div>
 
 ---
 
-### 🔹 Categories (quick)
-- **Languages:** Python · JavaScript · Java · C / C++  
-- **Data & Analysis:** Pandas · NumPy · SQL (MySQL / PostgreSQL)  
-- **ML / DL:** scikit-learn · PyTorch · TensorFlow · Feature Engineering · Model Evaluation  
-- **Generative AI / RAG:** LangChain · OpenAI · Gemini (concepts) · FAISS · Prompt Engineering  
-- **NLP & Speech:** Hugging Face Transformers · Summarization · ASR pipelines  
-- **Computer Vision & OCR:** OpenCV · PaddleOCR / Tesseract · Object Detection  
-- **Deployment & Infra:** Streamlit · FastAPI · Flask · Docker basics · AWS / GCP · CI/CD (basic)  
-- **Tools:** Git · GitHub · VSCode · Jupyter Notebooks
+## 📜 Certifications
+
+**AWS**
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle](https://img.shields.io/badge/Oracle_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Machine_Learning-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-### ⭐ Highlight (one-liner)
-**Specialties:** RAG pipelines, LangChain integration, OCR pipelines for production data ingestion, audio ML pipelines (MFCC → model → Streamlit), and deployable end-to-end ML systems.
+## 🧩 Coding Profiles
 
+<div align="center">
 
-## 📈 What I Focus On
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivvam2002)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/s00980)
 
-✔ Production-ready AI systems  
-✔ Real-world problem solving  
-✔ Performance optimization  
-✔ Scalable ML architecture  
-✔ Clean deployment pipelines  
+</div>
 
 ---
 
-## 🎯 Currently Open To
+## 📊 GitHub Analytics
 
-• Junior AI Engineer Roles  
-• ML Engineer Roles  
-• Data Scientist Roles  
-• Generative AI Engineer Roles  
+<div align="center">
 
-Open to full-time opportunities and collaborations.
+<img src="https://github-readme-stats.vercel.app/api?username=Dubeyrock&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubeyrock&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyrock&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dubeyrock&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubeyrock&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:    Advanced RAG architectures, LLM agentic workflows, vector databases
+Building:    Production-grade GenAI applications with measurable business impact
+Exploring:   Multi-modal LLMs, on-device ML, cloud-native AI deployment
+Open To:     Junior AI Engineer · ML Engineer · Data Scientist · GenAI Engineer roles
+```
 
 ---
 
 ## 📫 Connect With Me
 
-📧 shivvam2002@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/shivam-dubey-371a591a8  
-💻 GitHub: https://github.com/Dubeyrock  
-📊 Kaggle: https://www.kaggle.com/s00980  
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/shivvam2002@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivvam2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-371a591a8)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubeyrock)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/ShivamDubey)
+
+</div>
 
 ---
 
-## Total contribution / longest Streak.
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrock&" alt="dubeyrock" /></p>
+<div align="center">
 
----
+*"Real-world impact beats theoretical perfection — I build AI systems that ship, scale, and solve."*
 
-⭐ If you like my work, consider starring a repository!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+
+</div>
