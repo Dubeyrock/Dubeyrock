@@ -387,11 +387,11 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 ---
 
-## 📈 Contribution Chart
+## 🏅 GitHub Rank
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6D28D9/Dubeyrock" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dubeyrock&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs,issues" width="60%"/>
 
 </div>
 
