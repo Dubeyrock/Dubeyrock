@@ -387,11 +387,11 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Chart
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.gif" width="100%"/>
+<img src="https://ghchart.rshah.org/6D28D9/Dubeyrock" width="100%"/>
 
 </div>
 
