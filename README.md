@@ -210,6 +210,22 @@ Building production-grade AI features that power automated recruitment workflows
 
 `LangChain` `Vector Databases` `LLM Integration` `Generative AI` `Python`
 
+---
+
+### Professional Development — Career Break
+*Feb 2025 – Mar 2026 · 1 yr 2 mos*
+
+Focused preparation period for GATE alongside entry-level Data Science and AI/ML roles.
+
+**Scope of work:**
+- Prepared for GATE along with entry-level roles in Data Science and AI/ML domain
+- Strengthened core Computer Science fundamentals including DSA, DBMS, OS, and CN
+- Improved Python, Machine Learning, and problem-solving skills
+- Developed strong analytical and technical foundation during this period
+
+`DSA` `DBMS` `Operating Systems` `Computer Networks` `Python`
+
+---
 
 ### Data Science with GenAI Intern — Innomatics Research Labs
 *Internship · Sep 2024 – Jan 2025 · 5 mos · Hyderabad, Telangana, India · On-site*
@@ -351,6 +367,15 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 ---
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dubeyrock&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+---
 
 ## 📅 Contribution Activity
 
@@ -366,15 +391,9 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
-
-> ⚠️ This only renders once the snake-generation workflow below has run at least once on your `Dubeyrock/Dubeyrock` repo and pushed to the `output` branch.
 
 ---
 
