@@ -212,20 +212,7 @@ Building production-grade AI features that power automated recruitment workflows
 
 ---
 
-### Professional Development — Career Break
-*Feb 2025 – Mar 2026 · 1 yr 2 mos*
 
-Focused preparation period for GATE alongside entry-level Data Science and AI/ML roles.
-
-**Scope of work:**
-- Prepared for GATE along with entry-level roles in Data Science and AI/ML domain
-- Strengthened core Computer Science fundamentals including DSA, DBMS, OS, and CN
-- Improved Python, Machine Learning, and problem-solving skills
-- Developed strong analytical and technical foundation during this period
-
-`DSA` `DBMS` `Operating Systems` `Computer Networks` `Python`
-
----
 
 ### Data Science with GenAI Intern — Innomatics Research Labs
 *Internship · Sep 2024 – Jan 2025 · 5 mos · Hyderabad, Telangana, India · On-site*
