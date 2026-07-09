@@ -391,7 +391,7 @@ Implemented and evaluated supervised ML algorithms and built reporting pipelines
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dubeyrock/Dubeyrock/output/github-contribution-grid-snake.gif" width="100%"/>
 
 </div>
 
