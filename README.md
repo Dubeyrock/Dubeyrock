@@ -200,7 +200,7 @@ Built to catch the boring-but-important issues so human reviewers can focus on a
 ## 💼 Experience
 
 ### 🟢 Artificial Intelligence Engineer — Recruweb
-*Full-time · Apr 2026 – Present · 4 mos · Noida, Uttar Pradesh, India · Hybrid*
+*Full-time · Apr 2026 – Oct · 4 mos · Noida, Uttar Pradesh, India · Hybrid*
 
 Building production-grade AI features that power automated recruitment workflows at scale — current role.
 
